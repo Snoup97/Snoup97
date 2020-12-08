@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">Software Developer and Student</h3>
- 
+
 <h3 align="center">Spotify Playing 🎧</h3>
 
 <p align="center">
