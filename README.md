@@ -1,4 +1,13 @@
-## Hi, I'm Philipp, a Software Developer and Student
+<div style="text-align:center">
+
+# Hi, I'm Philipp
+
+<hr>
+
+## Software Developer and Student
+
+
+
 
 ### Spotify Playing 🎧
 
@@ -46,3 +55,5 @@
 [twitter]: https://twitter.com/PhilippKohler
 [instagram]: https://www.instagram.com/kohler_philipp/
 [linkedin]: https://www.linkedin.com/in/philipp-kohler-069a1a199/
+
+</div>
