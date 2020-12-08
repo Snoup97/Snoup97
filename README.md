@@ -4,10 +4,9 @@
 
 ## Software Developer and Student
 
-
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem.snoup97.vercel.app/api/spotify-playing" alt="Snoup97 Spotify Playing" width="350" />](https://open.spotify.com/user/1158060024?si=C7JzF-JKQkylxPjzh3FFpg)
+[<img src="https://novatorem.snoup97.vercel.app/api/spotify" alt="Snoup97 Spotify Playing" width="350" />](https://open.spotify.com/user/1158060024?si=C7JzF-JKQkylxPjzh3FFpg)
 
 ### Connect with me:
 
