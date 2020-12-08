@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer and Student</h3>
  
 <h3 align="center">Spotify Playing 🎧</h3>
-[<img src="https://novatorem.snoup97.vercel.app/api/spotify" alt="Snoup97 Spotify Playing" width="350" />](https://open.spotify.com/user/1158060024?si=C7JzF-JKQkylxPjzh3FFpg)
+<img src="https://novatorem.snoup97.vercel.app/api/spotify" alt="Snoup97 Spotify Playing" width="350"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoup97&label=Profile%20views&color=0e75b6&style=flat" alt="snoup97" /> </p>
@@ -25,6 +25,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snoup97&show_icons=true&locale=en" alt="snoup97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snoup97&show_icons=true&locale=en&count_private=true" alt="snoup97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snoup97&" alt="snoup97" /></p>
