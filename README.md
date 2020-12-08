@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 # Hi, I'm Philipp
 
 <hr>
@@ -7,11 +5,9 @@
 ## Software Developer and Student
 
 
-
-
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Snoup97 Spotify Playing" width="350" />](https://open.spotify.com/user/1158060024?si=C7JzF-JKQkylxPjzh3FFpg)
+[<img src="https://https://novatorem.snoup97.vercel.app/api/spotify-playing" alt="Snoup97 Spotify Playing" width="350" />](https://open.spotify.com/user/1158060024?si=C7JzF-JKQkylxPjzh3FFpg)
 
 ### Connect with me:
 
@@ -49,11 +45,9 @@
 
 ### GitHub Stats
 
-<img align="left" alt="Snoup97's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Snoup97&show_icons=true&hide_border=true&count_private=true" />
+[![Snoup97's github stats](https://github-readme-stats.vercel.app/api?username=Snoup97&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [xing]: https://www.xing.com/profile/Philipp_Kohler22
 [twitter]: https://twitter.com/PhilippKohler
 [instagram]: https://www.instagram.com/kohler_philipp/
 [linkedin]: https://www.linkedin.com/in/philipp-kohler-069a1a199/
-
-</div>
