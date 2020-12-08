@@ -1,7 +1,5 @@
 # Hi, I'm Philipp
 
-<hr>
-
 ## Software Developer and Student
 
 ### Spotify Playing 🎧
