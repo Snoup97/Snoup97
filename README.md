@@ -29,7 +29,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<h4 align="center">Contributions</h4>
+<h3 align="center">Contributions</h3>
 <p align="center"> 
 <a href="https://github.com/AntonOsika/gpt-engineer" target="_blank" rel="noreferrer">GPT Engineer</a>
 </p>
